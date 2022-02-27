@@ -1,0 +1,12 @@
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\bin\Debug\net5.0\web_app_trial.Shared.deps.json
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\bin\Debug\net5.0\web_app_trial.Shared.dll
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\bin\Debug\net5.0\ref\web_app_trial.Shared.dll
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\bin\Debug\net5.0\web_app_trial.Shared.pdb
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\obj\Debug\net5.0\web_app_trial.Shared.csproj.AssemblyReference.cache
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\obj\Debug\net5.0\web_app_trial.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\obj\Debug\net5.0\web_app_trial.Shared.AssemblyInfoInputs.cache
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\obj\Debug\net5.0\web_app_trial.Shared.AssemblyInfo.cs
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\obj\Debug\net5.0\web_app_trial.Shared.csproj.CoreCompileInputs.cache
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\obj\Debug\net5.0\web_app_trial.Shared.dll
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\obj\Debug\net5.0\ref\web_app_trial.Shared.dll
+C:\Users\devya\Desktop\pwa2\web_app_trial\Shared\obj\Debug\net5.0\web_app_trial.Shared.pdb
